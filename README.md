@@ -2,7 +2,7 @@
 
 # Foundry Smart Contract Lottery
 
-This is Raffle Smart Contract lottery I have already deployed 2 times on tesnet with different time intervals you can check them out !!!
+This is Raffle Smart Contract lottery I have already deployed 2 times on testnet with different time intervals you can check them out !!!
 
 Follow the Steps Below to deploy If you ever get lost or have any question feel free to contact me on Below Social Handle 
 
